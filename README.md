@@ -7,7 +7,7 @@
 [http://170.64.203.136](http://170.64.203.136)
 
 ## 📹 Video Explainer
-[Watch the video explainer on YouTube]([https://youtu.be/79b7hqtdnAI](https://youtu.be/g-cMnrTqKd4))
+[Watch the video explainer on YouTube](https://youtu.be/g-cMnrTqKd4)
 
 ## 🧾 Description
 This repository includes the required documentation, setup details, and screenshots for the ICT171 Cloud Server Project deployed on DigitalOcean using Apache2 on Ubuntu 22.04.
