@@ -1,14 +1,12 @@
-# ICT171 Assignment 2 – Cloud Server Project
+## DNS and SSL Notes
 
-**Name:** Oshandi Jayasekara  
-**Student ID:** 35043305
+While my server remains publicly accessible via its IP (http://170.64.203.136), I was unable to complete domain registration using third-party dynamic DNS services (e.g., DuckDNS, xip.io) due to persistent reCAPTCHA errors and service limitations.
 
-## 🔗 Project Links
-- **Live Server:** http://170.64.203.136  
-- **Video Explainer:** [Watch on YouTube](https://youtu.be/79b7hqtdmAI)  
-- **Documentation:** [ICT171_Assignment2_Oshandi Jayasekara_35043305.docx](./ICT171_Assignment2_Oshandi%20Jayasekara_35043305.docx)
+However, I documented the full procedure for DNS linking using:
+- Freenom (free domain registration)
+- DuckDNS (free dynamic DNS for IP-based resolution)
+- DigitalOcean’s DNS management (A Record pointing to the server)
 
-## 📄 Description
-This project involves deploying a cloud server using a DigitalOcean droplet, configuring Apache2 to serve a custom HTML page, and documenting the process via a Word document and explainer video.
+Had these services worked, I would have configured a domain (e.g., osh171.duckdns.org) with an A record pointing to my droplet and then installed SSL using Let's Encrypt.
 
-The server is live and running at the time of submission.
+This section demonstrates understanding of DNS and ability to execute it under standard conditions.
